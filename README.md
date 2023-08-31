@@ -79,8 +79,9 @@ The neighbour class only keep information about the Row,Column and Direction
 }
 The Game form contails all of the logic, creating the grid and adding the cells, finding each cells neigbours and changing cells neighbours every time the player solves two cells,removing solved rows, win/lose conditions, points, etc.
 
-![image](https://github.com/PetarTrajanovski/Numbers-Match/assets/63553289/4c4416dd-976c-401f-8227-743a8a3fa5cb)
-![image](https://github.com/PetarTrajanovski/Numbers-Match/assets/63553289/dd670f11-c950-49d8-bea6-5155566b8935)
-![image](https://github.com/PetarTrajanovski/Numbers-Match/assets/63553289/bfa67bb3-e7dd-4ba4-93c9-20de195dbac2)
+![image](https://github.com/PetarTrajanovski/Numbers-Match/assets/63553289/77523ac6-88f5-4f6c-b70d-95e3ea2b55fb)
+![image](https://github.com/PetarTrajanovski/Numbers-Match/assets/63553289/cdc65c4f-828e-4bb0-8b2d-1c9363aa4d54)
+
+
 
 
